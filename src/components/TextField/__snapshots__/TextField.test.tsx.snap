@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test renders correctly with default params 1`] = `
+<TextInput
+  allowFontScaling={true}
+  onChangeText={[MockFunction]}
+  placeholder="placeHolder"
+  placeholderTextColor="#a6aaad"
+  rejectResponderTermination={true}
+  style={
+    Array [
+      Object {
+        "borderBottomColor": "#a6aaad",
+        "borderBottomWidth": 1,
+        "color": "#000000",
+        "fontSize": 18,
+        "lineHeight": 22,
+        "padding": 10,
+      },
+      undefined,
+    ]
+  }
+  testID="text-field"
+  underlineColorAndroid="transparent"
+  value=""
+/>
+`;

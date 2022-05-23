@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "paddingTop": 20,
+      },
+      undefined,
+    ]
+  }
+  testID="card-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 40,
+        },
+        Array [
+          Object {
+            "lineHeight": 40,
+            "textAlign": "center",
+          },
+          Object {
+            "backgroundColor": "white",
+            "borderRadius": 20,
+            "color": "#ff5722",
+            "height": 40,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": 40,
+            "zIndex": 1,
+          },
+        ],
+        Object {
+          "fontFamily": "doctor-font",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    testID="close-icon"
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#00bbd4",
+          "borderRadius": 30,
+          "flexDirection": "row",
+          "paddingHorizontal": 32,
+          "paddingTop": 16,
+        },
+        undefined,
+      ]
+    }
+    testID="card"
+  >
+    <View
+      style={
+        Object {
+          "flexShrink": 1,
+          "marginVertical": 16,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontFamily": "System",
+            "fontSize": 24,
+            "fontWeight": "600",
+            "includeFontPadding": false,
+            "lineHeight": 30,
+            "textAlign": undefined,
+          }
+        }
+        testID="Text"
+      >
+        Card title
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontFamily": "System",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "includeFontPadding": false,
+            "lineHeight": 18,
+            "opacity": 0.7,
+            "textAlign": undefined,
+          }
+        }
+        testID="Text"
+      >
+        Card subtitle
+      </Text>
+    </View>
+    <View
+      style={Object {}}
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 24,
+            },
+            Object {
+              "lineHeight": 24,
+              "textAlign": "center",
+            },
+            Object {
+              "fontFamily": "doctor-font",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,17 @@
+{
+  "timeFormat": "{{time, h:mm a}}",
+  "description": {
+    "title": "Rezervasyon ekle",
+    "subtitle": "Dr.{{name}} ile rezervasyon ayarla"
+  },
+  "appointments": {
+    "title": "Zaman",
+    "subtitle": "Müsait zamalardan birini seç"
+  },
+  "button": {
+    "text": "Rezervasyon ekle"
+  },
+  "message": {
+    "success": "Rezervasyon eklenmiştir"
+  }
+}

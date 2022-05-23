@@ -1,0 +1,341 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test renders correctly with empty list 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      },
+      undefined,
+    ]
+  }
+  testID="list"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`Button component test renders correctly with image list 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      },
+      undefined,
+    ]
+  }
+  testID="list"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#edf3f7",
+            "borderRadius": 20,
+            "height": 50,
+            "overflow": "hidden",
+            "width": 50,
+          },
+          undefined,
+          Object {
+            "marginRight": 10,
+          },
+        ]
+      }
+      testID="avatar"
+    >
+      <Image
+        fadeDuration={0}
+        height={50}
+        onLoad={[Function]}
+        resizeMode="contain"
+        source={
+          Object {
+            "height": 50,
+            "uri": "https://images2.imgbox.com/f7/bb/7HJeSokt_o.png",
+            "width": 50,
+          }
+        }
+        width={50}
+      />
+      <ActivityIndicator
+        animating={true}
+        color="#00bbd4"
+        hidesWhenStopped={true}
+        size="small"
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#edf3f7",
+            "borderRadius": 20,
+            "height": 50,
+            "overflow": "hidden",
+            "width": 50,
+          },
+          undefined,
+          Object {
+            "marginRight": 10,
+          },
+        ]
+      }
+      testID="avatar"
+    >
+      <Image
+        fadeDuration={0}
+        height={50}
+        onLoad={[Function]}
+        resizeMode="contain"
+        source={
+          Object {
+            "height": 50,
+            "uri": "https://images2.imgbox.com/5d/c9/sqb7cQMS_o.png",
+            "width": 50,
+          }
+        }
+        width={50}
+      />
+      <ActivityIndicator
+        animating={true}
+        color="#00bbd4"
+        hidesWhenStopped={true}
+        size="small"
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#edf3f7",
+            "borderRadius": 20,
+            "height": 50,
+            "overflow": "hidden",
+            "width": 50,
+          },
+          undefined,
+          Object {
+            "marginRight": 10,
+          },
+        ]
+      }
+      testID="avatar"
+    >
+      <Image
+        fadeDuration={0}
+        height={50}
+        onLoad={[Function]}
+        resizeMode="contain"
+        source={
+          Object {
+            "height": 50,
+            "uri": "https://images2.imgbox.com/19/80/QQZwXNbP_o.png",
+            "width": 50,
+          }
+        }
+        width={50}
+      />
+      <ActivityIndicator
+        animating={true}
+        color="#00bbd4"
+        hidesWhenStopped={true}
+        size="small"
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#edf3f7",
+            "borderRadius": 20,
+            "height": 50,
+            "overflow": "hidden",
+            "width": 50,
+          },
+          undefined,
+          Object {
+            "marginRight": 10,
+          },
+        ]
+      }
+      testID="avatar"
+    >
+      <Image
+        fadeDuration={0}
+        height={50}
+        onLoad={[Function]}
+        resizeMode="contain"
+        source={
+          Object {
+            "height": 50,
+            "uri": "https://images2.imgbox.com/4b/fe/k8H0shP2_o.png",
+            "width": 50,
+          }
+        }
+        width={50}
+      />
+      <ActivityIndicator
+        animating={true}
+        color="#00bbd4"
+        hidesWhenStopped={true}
+        size="small"
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 16,
+          "justifyContent": "center",
+        },
+        Object {
+          "backgroundColor": "#00bbd4",
+        },
+        Object {
+          "padding": 16,
+        },
+        false,
+        false,
+        Object {
+          "paddingHorizontal": 21,
+          "paddingTop": 13,
+        },
+      ]
+    }
+    testID="Button"
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontFamily": "System",
+          "fontSize": 16,
+          "fontWeight": "600",
+          "includeFontPadding": false,
+          "lineHeight": 20,
+          "textAlign": undefined,
+        }
+      }
+      testID="Text"
+    >
+      + 3
+    </Text>
+  </View>
+</View>
+`;

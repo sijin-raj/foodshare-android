@@ -1,0 +1,12 @@
+{
+  "description": {
+    "title": "அனாதை இல்லம் பற்றி"
+  },
+  "appointments": {
+    "title": "மணி"
+  },
+  "button": {
+    "text": "ஒரு சந்திப்பைத் திட்டமிடுங்கள்"
+  },
+  "dateFormat": "{{date, EEE, d-MMM}}"
+}

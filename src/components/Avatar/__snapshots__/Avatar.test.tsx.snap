@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar component test renders correctly with default params 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#4dcfe1",
+        "borderRadius": 0,
+        "height": 50,
+        "overflow": "hidden",
+        "width": 50,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+  testID="avatar"
+>
+  <Image
+    source={
+      Object {
+        "height": 50,
+        "uri": "https://i.ibb.co/4WGLRjs/person.png",
+        "width": 50,
+      }
+    }
+  />
+</View>
+`;

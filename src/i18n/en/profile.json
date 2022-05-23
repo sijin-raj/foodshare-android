@@ -1,0 +1,9 @@
+{
+  "title": "Profile",
+  "upcomingAppointments": "Developer Info",
+  "appointment": "{{count}} appointment",
+  "appointment_plural": "{{count}} appointments",
+  "language": "App language",
+  "time": "{{date, h:mm a}}",
+  "day": "{{date, do MMM}}"
+}

@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "paddingHorizontal": 32,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#4dcfe1",
+          "borderRadius": 20,
+          "height": 80,
+          "overflow": "hidden",
+          "width": 80,
+        },
+        undefined,
+        undefined,
+      ]
+    }
+    testID="avatar"
+  >
+    <Image
+      onLoad={[Function]}
+      resizeMode="contain"
+      source={
+        Object {
+          "height": 80,
+          "uri": "http://www.test.com/image.jpg",
+          "width": 80,
+        }
+      }
+    />
+    <ActivityIndicator
+      animating={true}
+      color="white"
+      hidesWhenStopped={true}
+      size="large"
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "marginLeft": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontSize": 30,
+          "fontWeight": "400",
+          "includeFontPadding": false,
+          "lineHeight": 38,
+          "textAlign": undefined,
+        }
+      }
+      testID="Text"
+    >
+      Title
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#a6aaad",
+          "fontFamily": "System",
+          "fontSize": 14,
+          "fontWeight": "400",
+          "includeFontPadding": false,
+          "lineHeight": 18,
+          "textAlign": undefined,
+        }
+      }
+      testID="Text"
+    >
+      Subtitle
+    </Text>
+  </View>
+</View>
+`;

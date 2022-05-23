@@ -1,0 +1,26 @@
+{
+    "title": "Create Food Request",
+    "subtitle": "Share your first meal",
+    "form": {
+      "name": {
+        "placeholder": "Name"
+      },
+      "location": {
+        "placeholder": "Location"
+      },
+      "foodtype": {
+        "placeholder": "Food Type"
+      },
+      "numberPerson": {
+        "placeholder": "Number of Persons"
+      },
+      "comment": {
+        "placeholder": "Comments"
+      },
+      "submit": {
+        "text": "Create request"
+      }
+    }
+    
+  }
+  

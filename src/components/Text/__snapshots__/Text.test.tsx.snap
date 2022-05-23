@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test renders correctly with default params 1`] = `
+<Text
+  style={
+    Object {
+      "color": "#00bbd4",
+      "fontFamily": "System",
+      "fontSize": 16,
+      "fontWeight": "400",
+      "includeFontPadding": false,
+      "lineHeight": 20,
+      "textAlign": undefined,
+    }
+  }
+  testID="Text"
+>
+  Hello
+</Text>
+`;

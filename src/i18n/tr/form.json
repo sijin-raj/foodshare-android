@@ -1,0 +1,26 @@
+{
+    "title": "உணவு கோரிக்கையை உருவாக்கவும்",
+    "subtitle": "உங்கள் முதல் உணவைப் பகிர்ந்து கொள்ளுங்கள்",
+    "form": {
+      "name": {
+        "placeholder": "பெயர்"
+      },
+      "location": {
+        "placeholder": "இடம்"
+      },
+      "foodtype": {
+        "placeholder": "உணவு வகை"
+      },
+      "numberPerson": {
+        "placeholder": "நபர்களின் எண்ணிக்கை"
+      },
+      "comment": {
+        "placeholder": "கருத்துகள்"
+      },
+      "submit": {
+        "text": "கோரிக்கையை உருவாக்கவும்"
+      }
+    }
+    
+  }
+  

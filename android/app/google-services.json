@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390924946591",
+    "project_id": "foodshare-af2a6",
+    "storage_bucket": "foodshare-af2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390924946591:android:650ce25592d60dc7b626aa",
+        "android_client_info": {
+          "package_name": "com.Hakeemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390924946591-kkpfgdramql5o4eejlek97iaq4n2jn0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-lgkOQzMxK_on7UqkOFszHiyST-JyLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390924946591-kkpfgdramql5o4eejlek97iaq4n2jn0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

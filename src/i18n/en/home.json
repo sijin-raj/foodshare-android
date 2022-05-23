@@ -1,0 +1,28 @@
+{
+  "title": "Home",
+  "header": "Hello, <b>{{name}}</b> !",
+  "search": {
+    "placeholder": "Search..."
+  },
+  "card": {
+    "title": "Our Mission !",
+    "subtitle": "Make India hunger free "
+  },
+  "doctors": {
+    "title": "Recent",
+    "subtitle": "{{count}} Orphanage",
+    "subtitle_plural": "{{count}}"
+  },
+  "services": {
+    "title": "Orphanages Types",
+    "subtitle": "Choose a service to find available",
+    "types": {
+      "diagnose": "Orphanage",
+      "badge": "Child Orphanage",
+      "shot": "Old Age Homes",
+      "ambulance": "Mentally Challenged Orphanages",
+      "heart-beat": "Handicap Orphanage"
+    },
+    "button": "Near By"
+  }
+}

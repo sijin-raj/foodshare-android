@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>559792786123-mq519jkj6jpsp5anvh5ur2k9rf2pl1dd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.559792786123-mq519jkj6jpsp5anvh5ur2k9rf2pl1dd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHzLMr5Gx33i123AZV_Ifg5C7sd59KIYE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>559792786123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Hakeemi</string>
+	<key>PROJECT_ID</key>
+	<string>hakeemi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hakeemi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:559792786123:ios:94083b37d5f3b22762e94e</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+{
+  "timeFormat": "{{time, h:mm a}}",
+  "description": {
+    "title": "Schedule An Appointment",
+    "subtitle": "Schedule an online appointment with Dr.{{name}}"
+  },
+  "appointments": {
+    "title": "Time",
+    "subtitle": "Choose one the available slots."
+  },
+  "button": {
+    "text": "Schedule An Appointment"
+  },
+  "message": {
+    "success": "Appointment reserved successfully"
+  }
+}

@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component test renders correctly with default params 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#edf3f7",
+        "borderRadius": 30,
+        "flexDirection": "row",
+        "paddingHorizontal": 20,
+        "paddingVertical": 20,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "color": "#00bbd4",
+          "fontSize": 20,
+        },
+        Array [
+          Object {
+            "lineHeight": 20,
+            "textAlign": "center",
+          },
+          Object {
+            "marginRight": 10,
+            "padding": 2,
+          },
+        ],
+        Object {
+          "fontFamily": "doctor-font",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    testID="search-icon"
+  >
+    
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[MockFunction]}
+    placeholder="placeHolder"
+    placeholderTextColor="#a6aaad"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "color": "#000000",
+        "flexGrow": 1,
+        "fontSize": 18,
+        "lineHeight": 24,
+      }
+    }
+    testID="text-field"
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;
