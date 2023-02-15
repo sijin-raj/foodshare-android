@@ -25,9 +25,11 @@ Here are some screenshots of the FoodShare and Donate app in action:
 <table>
   
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src="https://github.com/sijin-raj/foodshare-android/blob/main/assets/screens/screen-1.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/sijin-raj/foodshare-android/blob/main/assets/screens/screen-2.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/sijin-raj/foodshare-android/blob/main/assets/screens/screen-3.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/sijin-raj/foodshare-android/blob/main/assets/screens/screen-4.jpeg" width=270 height=480></td>
+
   </tr>
  </table>
 
