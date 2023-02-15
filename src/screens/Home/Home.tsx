@@ -41,7 +41,7 @@ const Home: FC = () => {
           <Text color="black" size="head-30">
             <Trans
               i18nKey="home:header"
-              values={{ name: 'Initha' }}
+              values={{ name: 'Sijin' }}
               components={{
                 b: <Text color="black" size="head-30" level="500" />,
               }}

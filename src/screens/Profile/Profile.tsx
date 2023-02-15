@@ -19,7 +19,7 @@ const appointmentList = [
   { name: '', },
 ];
 const userInfo = {
-  name: 'Initha',
+  name: 'Sijin',
   location: 'Tamil Nadu, India',
   image:
     'https://firebasestorage.googleapis.com/v0/b/foodshare-af2a6.appspot.com/o/profile%2Fperson.png?alt=media&token=28f28adb-dd30-4fce-9762-48f03750e914',
